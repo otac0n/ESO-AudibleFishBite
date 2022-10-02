@@ -6,7 +6,7 @@ Depends On:
 * LibAddonMenu - SoundSlider widget
 * LibSavedVars
 
-ESOUI page: 
+ESOUI page: https://www.esoui.com/downloads/info3477-AudibleFishBite.html
 
 Addon users: Please submit issues here for visibility to other contributors
 
