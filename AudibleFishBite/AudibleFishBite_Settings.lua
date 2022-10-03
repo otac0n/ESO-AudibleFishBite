@@ -1,7 +1,7 @@
 AudibleFishBite.variableVersion = 1
 
 local defaultSoundVars = {
-  SoundFile = "BATTLEGROUNDS_CAPTURE_AREA_SPAWNED",
+  SoundFile = SOUNDS.BATTLEGROUND_MURDERBALL_TAKEN_OWN_TEAM,
 }
 
 function AudibleFishBite:InitializeSettings()
